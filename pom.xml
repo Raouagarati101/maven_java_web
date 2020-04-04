@@ -241,8 +241,7 @@
             </build>
         </profile>
     </profiles>
-         <distributionManagement>
-    distributionManagement>
+    <distributionManagement>
     <repository>
       <id>nexus</id>
       <name>Releases</name>
