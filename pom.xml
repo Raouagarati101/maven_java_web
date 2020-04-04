@@ -27,20 +27,6 @@
             <url>http://repository.primefaces.org</url>
         </repository>
     </repositories>
-         <pluginRepositories>
-    <pluginRepository>
-        <id>central</id>
-        <url>http://gotoNexus</url>
-        <snapshots>
-            <enabled>true</enabled>
-            <updatePolicy>daily</updatePolicy>
-        </snapshots>
-        <releases>
-            <enabled>true</enabled>
-            <updatePolicy>never</updatePolicy>
-        </releases>
-    </pluginRepository>
-         </pluginRepositories>
 
     <dependencyManagement>
         <!-- Arquillian BOM used to reduce collision between testing dependecies. -->
